@@ -1,0 +1,4 @@
+pyside6 
+openai 
+qasync 
+python-dotenv

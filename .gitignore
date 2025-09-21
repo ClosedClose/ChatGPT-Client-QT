@@ -1,0 +1,5 @@
+.venv/
+.gitignore
+profiles.json
+build/
+main.spec
