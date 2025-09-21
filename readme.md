@@ -5,7 +5,7 @@ Gen-Api.ru and Legacy OpenAI connection with GUI
 
 ### Precompiled Exe package (pyinstaller)
 
-1. Download http://master.trioz.lan/local/chatgpt-client-qt/-/raw/main/dist/main.exe
+1. Download [build](https://github.com/ClosedClose/ChatGPT-Client-QT/blob/2a052efa766d42fd35f5b204cb103996cd4c5075/dist/main.exe)
 2. Run it
 
 ### Usage Py
